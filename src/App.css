@@ -1,0 +1,20 @@
+h1 {
+  text-align:center;
+}
+
+.App {
+  display: flex;
+  display: flex;
+    padding: 20px;
+    margin: 10px;
+    align-items: baseline;
+    justify-content: center;
+    background-color: rgb(113, 113, 179);
+    width:50%;
+   
+}
+
+.counter {
+  padding:20px;
+
+}
